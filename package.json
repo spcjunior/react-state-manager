@@ -7,15 +7,15 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "@emotion/react": "^11.8.1",
-    "@emotion/styled": "^11.8.1",
-    "@mui/material": "^5.4.1",
-    "@mui/styles": "^5.4.1",
+    "@emotion/react": "11.11.4",
+    "@emotion/styled": "11.11.5",
+    "@mui/material": "5.16.0",
+    "@mui/styles": "5.16.0",
     "@reduxjs/toolkit": "^1.8.0",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
     "react-redux": "^7.2.6",
-    "react-router-dom": "^6.2.1",
+    "react-router-dom": "6.24.1",
     "uuid": "^8.3.2",
     "zustand": "^3.7.1"
   },
